@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning Flutter/Dart and JS.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymgn9314)](https://github.com/anuraghazra/github-readme-stats)
 
