@@ -1,8 +1,11 @@
 ### 🌱 I’m currently learning Flutter/Dart and JS.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymgn9314&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymgn9314&layout=compact&theme=gruvbox)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ymgn9314&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymgn9314&layout=compact&theme=gruvbox" />
+</a>
 
 <!--
 **ymgn9314/ymgn9314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
