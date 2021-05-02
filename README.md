@@ -1,4 +1,6 @@
-### 🌱 I’m currently learning Flutter/Dart and JS.
+### Hello!😎
+
++ 🌱 I’m currently learning ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymgn9314&count_private=true&show_icons=true&theme=gruvbox" />
