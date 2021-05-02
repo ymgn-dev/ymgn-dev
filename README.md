@@ -1,4 +1,4 @@
-### Hello!😎
+### Hello😎
 
 
 + 🌱 I’m currently learning Flutter/Dart and JS.
