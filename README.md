@@ -1,6 +1,8 @@
 ### Hello!😎
 
-+ 🌱 I’m currently learning ...
+
++ 🌱 I’m currently learning Flutter/Dart and JS.
++ 📫 How to reach me: https://twitter.com/ymgn9314
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymgn9314&count_private=true&show_icons=true&theme=gruvbox" />
