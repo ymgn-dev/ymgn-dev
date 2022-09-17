@@ -1,7 +1,7 @@
 ### Hello😎
 
 
-+ 🌱 I’m currently learning Flutter/Dart and TypeScript.
++ 🌱 I’m currently learning Flutter/Dart and Rust.
 + 📫 How to reach me: https://twitter.com/ymgn9314
 + ⚡ Fun fact: Beatbox 🎶, Movie 📺 and Reversi ⚫️⚪️
 
