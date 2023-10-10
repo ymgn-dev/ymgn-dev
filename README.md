@@ -1,8 +1,8 @@
 ### Hello😎
 
 
-+ 🌱 I’m currently learning Flutter/Dart and Rust.
-+ 📫 How to reach me: https://twitter.com/ymgn9314
++ 🌱 I’m currently learning Next.js, SvelteKit, TypeScript and Lua.
++ 📫 How to reach me: https://ymgn.dev
 + ⚡ Fun fact: Beatbox 🎶, Movie 📺 and Reversi ⚫️⚪️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,7 +13,7 @@
 </a>
 
 <!--
-**ymgn9314/ymgn9314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ymgn-dev/ymgn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
